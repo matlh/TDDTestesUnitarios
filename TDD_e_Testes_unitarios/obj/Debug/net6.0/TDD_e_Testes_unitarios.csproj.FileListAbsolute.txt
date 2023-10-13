@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO\TDD_e_Testes_unitarios\TDD_e_Testes_unitarios\bin\Debug\net6.0\TDD_e_Testes_unitarios.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO\TDD_e_Testes_unitarios\TDD_e_Testes_unitarios\bin\Debug\net6.0\TDD_e_Testes_unitarios.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO\TDD_e_Testes_unitarios\TDD_e_Testes_unitarios\bin\Debug\net6.0\TDD_e_Testes_unitarios.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO\TDD_e_Testes_unitarios\TDD_e_Testes_unitarios\bin\Debug\net6.0\TDD_e_Testes_unitarios.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO\TDD_e_Testes_unitarios\TDD_e_Testes_unitarios\bin\Debug\net6.0\TDD_e_Testes_unitarios.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO\TDD_e_Testes_unitarios\TDD_e_Testes_unitarios\obj\Debug\net6.0\TDD_e_Testes_unitarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO\TDD_e_Testes_unitarios\TDD_e_Testes_unitarios\obj\Debug\net6.0\TDD_e_Testes_unitarios.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO\TDD_e_Testes_unitarios\TDD_e_Testes_unitarios\obj\Debug\net6.0\TDD_e_Testes_unitarios.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO\TDD_e_Testes_unitarios\TDD_e_Testes_unitarios\obj\Debug\net6.0\TDD_e_Testes_unitarios.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO\TDD_e_Testes_unitarios\TDD_e_Testes_unitarios\obj\Debug\net6.0\TDD_e_Testes_unitarios.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO\TDD_e_Testes_unitarios\TDD_e_Testes_unitarios\obj\Debug\net6.0\refint\TDD_e_Testes_unitarios.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO\TDD_e_Testes_unitarios\TDD_e_Testes_unitarios\obj\Debug\net6.0\TDD_e_Testes_unitarios.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO\TDD_e_Testes_unitarios\TDD_e_Testes_unitarios\obj\Debug\net6.0\TDD_e_Testes_unitarios.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO\TDD_e_Testes_unitarios\TDD_e_Testes_unitarios\obj\Debug\net6.0\ref\TDD_e_Testes_unitarios.dll
